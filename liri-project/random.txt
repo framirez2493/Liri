@@ -1,0 +1,6 @@
+spotify-this-song "The raining man"
+movie-this  "resident evil"
+concert-this "marco antonio solis"
+
+/no quotes needed to run the commands.
+have fun...

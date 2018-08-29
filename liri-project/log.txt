@@ -1,0 +1,60 @@
+
+ Movie Name: Resident Evil: Apocalypse
+ Rating: Rotten Tomatoes 20%
+ Actors:Milla Jovovich, Sienna Guillory, Oded Fehr, Thomas Kretschmann
+ LanguageEnglish
+ CountryGermany, France, UK, Canada, USA
+ metaRating:35
+ Plot:Alice awakes in Raccoon City, only to find it has become infested with zombies and monsters. With the help of Jill Valentine and Carlos Olivera, Alice must find a way out of the city before it is destroyed by a nuclear missile.
+------------------------------------------------------------
+
+
+ Movie Name: Crazy Rich Asians
+ Rating: Rotten Tomatoes 100%
+ Actors:Constance Wu, Henry Golding, Michelle Yeoh, Gemma Chan
+ LanguageEnglish
+ CountryUSA
+ metaRating:74
+ Plot:This contemporary romantic comedy, based on a global bestseller, follows native New Yorker Rachel Chu to Singapore to meet her boyfriend's family.
+------------------------------------------------------------
+
+
+Artist Name: Drake,Migos
+Venue Name: Madison Square Garden
+Location: New York
+State: NY
+Time: 2018-08-28T19:00:00
+------------------------------------------------------------
+
+
+Artist Name: Banda MS
+Venue Name: Spring Center
+Location: Kansas City
+State: MO
+Time: 2018-09-01T20:00:00
+------------------------------------------------------------
+
+
+--------------------------------------------
+Song Name: run around sue
+Artists: The Firebirds
+album:Taking by Storm
+Preview URL: https://p.scdn.co/mp3-preview/76c40cd5db49c2accf33c99092464eec8ce5b08d?cid=33e69e5fa92d4dbc8221c632735177c5
+------------------------------------------------------------
+
+
+--------------------------------------------
+Song Name: hotel california
+Artists: Eagles
+album:Hotel California (Remastered)
+Preview URL: https://p.scdn.co/mp3-preview/50e82c99c20ffa4223e82250605bbd8500cb3928?cid=33e69e5fa92d4dbc8221c632735177c5
+------------------------------------------------------------
+
+
+--------------------------------------------
+Song Name: hotel california
+Artists: Eagles
+album:Hotel California (Remastered)
+Preview URL: https://p.scdn.co/mp3-preview/50e82c99c20ffa4223e82250605bbd8500cb3928?cid=33e69e5fa92d4dbc8221c632735177c5
+------------------------------------------------------------
+
