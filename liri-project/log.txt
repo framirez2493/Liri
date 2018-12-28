@@ -58,3 +58,83 @@ album:Hotel California (Remastered)
 Preview URL: https://p.scdn.co/mp3-preview/50e82c99c20ffa4223e82250605bbd8500cb3928?cid=33e69e5fa92d4dbc8221c632735177c5
 ------------------------------------------------------------
 
+
+--------------------------------------------
+Song Name: hotel california
+Artists: Eagles
+album:Hotel California (Remastered)
+Preview URL: https://p.scdn.co/mp3-preview/50e82c99c20ffa4223e82250605bbd8500cb3928?cid=33e69e5fa92d4dbc8221c632735177c5
+------------------------------------------------------------
+
+
+Artist Name: Banda MS
+Venue Name: Spring Center
+Location: Kansas City
+State: MO
+Time: 2018-09-01T20:00:00
+------------------------------------------------------------
+
+
+ Movie Name: Crazy Rich Asians
+ Rating: Rotten Tomatoes 100%
+ Actors:Constance Wu, Henry Golding, Michelle Yeoh, Gemma Chan
+ LanguageEnglish
+ CountryUSA
+ metaRating:74
+ Plot:This contemporary romantic comedy, based on a global bestseller, follows native New Yorker Rachel Chu to Singapore to meet her boyfriend's family.
+------------------------------------------------------------
+
+
+ Movie Name: Batman
+ Rating: Rotten Tomatoes 72%
+ Actors:Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+ LanguageEnglish, French, Spanish
+ CountryUSA, UK
+ metaRating:69
+ Plot:The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
+------------------------------------------------------------
+
+
+ Movie Name: Batman
+ Rating: Rotten Tomatoes 72%
+ Actors:Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+ LanguageEnglish, French, Spanish
+ CountryUSA, UK
+ metaRating:69
+ Plot:The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
+------------------------------------------------------------
+
+
+Artist Name: Bad Bunny
+Venue Name: Coliseo de Puerto Rico
+Location: San Juan
+State: 
+Time: 2019-03-08T20:30:00
+------------------------------------------------------------
+
+
+ Movie Name: Batman
+ Rating: Rotten Tomatoes 72%
+ Actors:Michael Keaton, Jack Nicholson, Kim Basinger, Robert Wuhl
+ LanguageEnglish, French, Spanish
+ CountryUSA, UK
+ metaRating:69
+ Plot:The Dark Knight of Gotham City begins his war on crime with his first major enemy being the clownishly homicidal Joker.
+------------------------------------------------------------
+
+
+Artist Name: Bad Bunny
+Venue Name: Coliseo de Puerto Rico
+Location: San Juan
+State: 
+Time: 2019-03-08T20:30:00
+------------------------------------------------------------
+
+
+--------------------------------------------
+Song Name: the raining man
+Artists: The Sugar Sisters
+album:World Hits
+Preview URL: https://p.scdn.co/mp3-preview/7a6f21367b6305ae90c148dc4bdd24aa5b179a83?cid=33e69e5fa92d4dbc8221c632735177c5
+------------------------------------------------------------
+

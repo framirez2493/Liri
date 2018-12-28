@@ -29,7 +29,7 @@ var command = nodeArgs[2];
 var input = nodeArgs.slice(3).join(' ')
 
 switch (command) {
-  case "concert-this":
+  case "concert":
     concert()
 
     break;
@@ -107,7 +107,7 @@ function concert() {
   var divider = "\n------------------------------------------------------------\n\n";
 
   // We will read the existing bank file
-  request("https://rest.bandsintown.com/artists/" + input + "/events?app_id=codingbootcamp&date=" + localTime + "%2C2018-12-31", function (error, response, body) {
+  request("https://rest.bandsintown.com/artists/" + input + "/events?app_id=codingbootcamp&date=" + localTime + "%2C2019-12-31", function (error, response, body) {
 
     if (!error && response.statusCode === 200) {
       concertInfo = JSON.parse(body)
